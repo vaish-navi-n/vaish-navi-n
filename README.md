@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 Check out my Holopin bagdes:-
 [![An image of @vaishnavin's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vaishnavin)](https://holopin.io/@vaishnavin)
-[![roadmap.sh](https://roadmap.sh/card/wide/686a9af61ed6bc62a2dc97c7?variant=dark)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/tall/686a9af61ed6bc62a2dc97c7?variant=dark)](https://roadmap.sh)
